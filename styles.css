@@ -50,4 +50,15 @@ h4 {
 a:hover {
     text-decoration: underline;
 }
-
+.name{
+    display: flex;
+    justify-content: center;
+}
+.position{
+    display: flex;
+    justify-content: center;
+}
+.loc{
+    display: flex;
+    justify-content: center;
+}
